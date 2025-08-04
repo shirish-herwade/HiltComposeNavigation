@@ -1,11 +1,9 @@
-package com.hilt.compnavigte.search.data.model
+package com.hilt.compnavigate.search.data.model
 
-data class ReceipeResponse() {
-    val meals: List<ReceipeDTO>? = null
+data class RecipeResponse(
+    val meals: List<RecipeDTO>? = null
+)
 
-
-}
-
-data class ReceipeDetailsResponse(
-    val meals: List<ReceipeDTO>? = null
+data class RecipeDetailsResponse(
+    val meals: List<RecipeDTO>? = null
 )

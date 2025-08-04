@@ -1,4 +1,4 @@
-package com.hilt.compnavigte.ui.theme
+package com.hilt.compnavigate.ui.theme
 
 import android.app.Activity
 import android.os.Build

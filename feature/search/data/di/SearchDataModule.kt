@@ -1,4 +1,4 @@
-package com.hilt.compnavigte.search.data.di
+package com.hilt.compnavigate.search.data.di
 
 const val BASE_URL = "https://www.themealdb.com/"
 

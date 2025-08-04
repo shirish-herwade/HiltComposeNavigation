@@ -1,8 +1,7 @@
-package com.hilt.compnavigte.search.ui
+package com.hilt.compnavigate.search.ui
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).

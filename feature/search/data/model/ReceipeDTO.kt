@@ -1,6 +1,6 @@
-package com.hilt.compnavigte.search.data.model
+package com.hilt.compnavigate.search.data.model
 
-data class ReceipeDTO(
+data class RecipeDTO(
     val dateModified: Any??,
     val idMeal: String?,
     val strArea: String?,
@@ -53,5 +53,5 @@ data class ReceipeDTO(
     val strMeasure9: String?,
     val strSource: String?,
     val strTags: String?,
-    val strYoutube: String
+    val strYoutube: String?
 )

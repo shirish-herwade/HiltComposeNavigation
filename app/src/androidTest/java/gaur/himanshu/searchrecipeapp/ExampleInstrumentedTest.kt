@@ -1,4 +1,4 @@
-package com.hilt.compnavigte
+package com.hilt.compnavigate
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.hilt.compnavigte", appContext.packageName)
+        assertEquals("com.hilt.compnavigate", appContext.packageName)
     }
 }

@@ -1,8 +1,8 @@
-//package com.hilt.compnavigte.search.domain.model
-package feature/search/domain/model/DomainModelFile.kt
+package com.hilt.compnavigate.feature.search.domain.model
 
+import android.util.Pair
 
-data class Receipe(
+data class Recipe(
     val idMeal: String?,
     val strArea: String?,
     val strMeal: String?,
@@ -13,7 +13,7 @@ data class Receipe(
     val strInstructions: String?,
 )
 
-data class ReceipeDetails(
+data class RecipeDetails(
     val idMeal: String?,
     val strArea: String?,val strMeal: String?,
     val strMealThumb: String?,

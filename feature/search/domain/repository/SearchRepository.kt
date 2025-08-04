@@ -1,6 +1,9 @@
-package com.hilt.compnavigte.search.domain.repository
+package com.hilt.compnavigate.feature.search.domain.repository
+
+import com.hilt.compnavigate.feature.search.domain.model.Recipe
+import com.hilt.compnavigate.feature.search.domain.model.RecipeDetails
 
 interface SearchRepository {
-    suspend fun getRecipes(): List<Receipe>
-    suspend fun getRecipeDetails(id: String): ReceipeDetails
+    suspend fun getRecipes(): List<Recipe>
+    suspend fun getRecipeDetails(id: String): RecipeDetails
 }

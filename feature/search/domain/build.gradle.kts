@@ -4,8 +4,8 @@ plugins {
 }
 
 android {
-    namespace = "com.hilt.compnavigte.search.domain"
-    compileSdk = 34
+    namespace = "com.hilt.compnavigate.search.domain"
+    compileSdk = 36
 
     defaultConfig {
         minSdk = 28
@@ -33,6 +33,7 @@ android {
 }
 
 dependencies {
+//    implementation(project(":feature:search:"))
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
