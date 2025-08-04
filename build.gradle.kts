@@ -6,5 +6,15 @@ plugins {
 
 
     id("com.google.dagger.hilt.android") version "2.50" apply false // Or your desired Hilt version
+    kotlin("jvm")
 
+}
+dependencies {
+    implementation(kotlin("stdlib-jdk8"))
+}
+repositories {
+    mavenCentral()
+}
+kotlin {
+    jvmToolchain(8)
 }

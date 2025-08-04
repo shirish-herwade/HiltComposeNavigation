@@ -1,4 +1,4 @@
-package com.hilt.compnavigate.feature.search.data.domain.repository
+package feature1.search.data.repository
 
 class SearchRepoImpl : SearchRepository {
     private val searchApiService = SearchApiService()

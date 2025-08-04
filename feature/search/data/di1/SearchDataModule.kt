@@ -1,4 +1,6 @@
-package com.hilt.compnavigate.search.data.di
+package di1
+
+import com.hilt.compnavigate.search.data.di.SearchApiService
 
 const val BASE_URL = "https://www.themealdb.com/"
 

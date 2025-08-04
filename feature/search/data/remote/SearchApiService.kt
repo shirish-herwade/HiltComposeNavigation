@@ -1,8 +1,10 @@
 package com.hilt.compnavigate.search.data.di
 
-import androidx.room.Query
+import com.hilt.compnavigate.search.data.model.RecipeDetailsResponse
 
-interface `SearchApiService.kt` {
+//import androidx.room.Query
+
+interface SearchApiService {
 
     //https://themealdb.com/api/json/v1/1/search.php?s=chicken
 
@@ -17,6 +19,4 @@ interface `SearchApiService.kt` {
     suspend fun getRecipeDetails(
         @Query("i") i: String
     ): Response<RecipeDetailsResponse>
-
-
 }
