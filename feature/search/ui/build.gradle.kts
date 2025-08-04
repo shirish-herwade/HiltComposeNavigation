@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.hilt.compnaviagte.search.ui"
+    namespace = "com.hilt.compnavigte.search.ui"
     compileSdk = 34
 
     defaultConfig {

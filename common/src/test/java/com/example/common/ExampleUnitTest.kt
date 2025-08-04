@@ -1,4 +1,4 @@
-package com.hilt.compnaviagte.common
+package com.hilt.compnavigte.common
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.hilt.compnaviagte.search.domain.repository
+package com.hilt.compnavigte.search.domain.repository
 
 interface SearchRepository {
     suspend fun getRecipes(): List<Receipe>

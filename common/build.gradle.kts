@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.hilt.compnaviagte"
+    namespace = "com.hilt.compnavigte"
     compileSdk = 34
 
     defaultConfig {

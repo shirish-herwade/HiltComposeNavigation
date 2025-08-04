@@ -1,4 +1,4 @@
-package com.hilt.compnaviagte.search.data.di
+package com.hilt.compnavigte.search.data.di
 
 interface `SearchApiService.kt` {
 

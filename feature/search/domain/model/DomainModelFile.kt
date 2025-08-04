@@ -1,4 +1,4 @@
-//package com.hilt.compnaviagte.search.domain.model
+//package com.hilt.compnavigte.search.domain.model
 package feature/search/domain/model/DomainModelFile.kt
 
 

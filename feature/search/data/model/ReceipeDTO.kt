@@ -1,4 +1,4 @@
-package com.hilt.compnaviagte.search.data.model
+package com.hilt.compnavigte.search.data.model
 
 data class ReceipeDTO(
     val dateModified: Any??,

@@ -1,4 +1,4 @@
-package com.hilt.compnaviagte.search.ui
+package com.hilt.compnavigte.search.ui
 
 import org.junit.Test
 
