@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.media_player"
+    namespace = "com.hilt.compnaviagte.media_player"
     compileSdk = 34
 
     defaultConfig {

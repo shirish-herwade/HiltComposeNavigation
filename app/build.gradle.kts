@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "gaur.himanshu.searchrecipeapp"
+    namespace = "com.hilt.compnaviagte"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "gaur.himanshu.searchrecipeapp"
+        applicationId = "com.hilt.compnaviagte"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

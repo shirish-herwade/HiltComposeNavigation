@@ -1,4 +1,4 @@
-package com.example.search.ui
+package com.hilt.compnaviagte.search.ui
 
 import org.junit.Test
 

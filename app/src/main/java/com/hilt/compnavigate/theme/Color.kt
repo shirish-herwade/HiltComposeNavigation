@@ -1,4 +1,4 @@
-package gaur.himanshu.searchrecipeapp.ui.theme
+package com.hilt.compnaviagte.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package gaur.himanshu.search.data.repository
+package com.hilt.compnavigate.search.data.repository
 
 class SearchRepoImpl :SearchRepository{
 

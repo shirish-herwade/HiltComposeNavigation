@@ -1,4 +1,4 @@
-package com.example.media_player
+package com.hilt.compnaviagte.media_player
 
 import org.junit.Test
 

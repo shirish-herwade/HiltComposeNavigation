@@ -1,4 +1,4 @@
-package gaur.himanshu.searchrecipeapp.search.data.di
+package com.hilt.compnaviagte.search.data.di
 
 const val BASE_URL = "https://www.themealdb.com/"
 

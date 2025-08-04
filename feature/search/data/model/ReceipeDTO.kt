@@ -1,4 +1,4 @@
-package gaur.himanshu.searchrecipeapp.search.data.model
+package com.hilt.compnaviagte.search.data.model
 
 data class ReceipeDTO(
     val dateModified: Any??,

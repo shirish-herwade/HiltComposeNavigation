@@ -1,4 +1,4 @@
-package com.example.search.domain
+package com.hilt.compnaviagte.search.domain
 
 import org.junit.Test
 

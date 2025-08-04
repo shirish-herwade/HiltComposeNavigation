@@ -1,4 +1,4 @@
-package gaur.himanshu.searchrecipeapp.ui.theme
+package com.hilt.compnaviagte.ui.theme
 
 import android.app.Activity
 import android.os.Build

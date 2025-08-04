@@ -1,4 +1,4 @@
-package gaur.himanshu.searchrecipeapp
+package com.hilt.compnaviagte
 
 import org.junit.Test
 

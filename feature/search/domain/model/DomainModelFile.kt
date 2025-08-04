@@ -1,4 +1,6 @@
-package gaur.himanshu.searchrecipeapp.search.domain.model
+//package com.hilt.compnaviagte.search.domain.model
+package feature/search/domain/model/DomainModelFile.kt
+
 
 data class Receipe(
     val idMeal: String?,

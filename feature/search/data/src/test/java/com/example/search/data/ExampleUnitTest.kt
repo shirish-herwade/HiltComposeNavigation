@@ -1,4 +1,4 @@
-package com.example.search.data
+package com.hilt.compnaviagte.search.data
 
 import org.junit.Test
 
